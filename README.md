@@ -6,6 +6,7 @@ Sample project to make a blog website
 
 ### nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+
 . .bashrc
 
 #### install node
